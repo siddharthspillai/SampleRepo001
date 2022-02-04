@@ -65,6 +65,7 @@
     </Compile>
     <Compile Include="HelperClasses\Helper0001.cs" />
     <Compile Include="HelperClasses\Helper0002.cs" />
+    <Compile Include="HelperClasses\Helper0003.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
