@@ -8,5 +8,9 @@ namespace TestApp0001
 {
     public class Helper0002
     {
+        public Helper0002()
+        {
+
+        }
     }
 }
